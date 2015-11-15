@@ -16,6 +16,9 @@
     "url": "https://github.com/GraffiTab/GraffiTab-Frontend/issues"
   },
   "homepage": "https://github.com/GraffiTab/GraffiTab-Frontend#readme",
+  "scripts": {
+    "test": "echo \"No testing added yet.\""
+  },
   "dependencies": {
 
   },
