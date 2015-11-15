@@ -1,0 +1,11 @@
+dependencies:
+  override:
+    - npm i
+
+deployment:
+  staging:
+    branch: master
+    commands:
+      - "[[ ! -s \"$(git rev-parse --git-dir)/shallow\" ]] || git fetch --unshallow"
+      - git push git@heroku.com:graffitab.git $CIRCLE_SHA1:refs/heads/master
+      - ./node_modules/gulp/bin/gulp.js

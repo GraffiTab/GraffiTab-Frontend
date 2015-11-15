@@ -1,0 +1,28 @@
+{
+  "name": "graffitab-frontend",
+  "version": "1.0.0",
+  "description": "Copyright 2015 GraffiTab",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GraffiTab/GraffiTab-Frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GraffiTab/GraffiTab-Frontend/issues"
+  },
+  "homepage": "https://github.com/GraffiTab/GraffiTab-Frontend#readme",
+  "dependencies": {
+
+  },
+  "devDependencies": {
+    "webpack": "^1.12.6",
+    "gulp": "^3.9.0",
+    "gulp-util": "^3.0.7",
+    "react": "^0.14.2"
+  }
+}
