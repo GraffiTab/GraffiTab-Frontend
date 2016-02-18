@@ -6,7 +6,7 @@ gulp.task("webpack", function(callback) {
   // run webpack
   webpack({
     // configuration
-    entry: "./src/index.js",
+    entry: "./src/index.jsx",
     output: {
       path: __dirname,
       filename: "bundle.js"
