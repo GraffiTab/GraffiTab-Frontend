@@ -125,7 +125,7 @@
     "clean": "babel-node tools/run clean",
     "copy": "babel-node tools/run copy",
     "bundle": "babel-node tools/run bundle",
-    "build": "./node_modules/babel-cli/bin/babel-node.js tools/run build",
+    "build": "babel-node tools/run build",
     "deploy": "babel-node tools/run deploy",
     "start": "babel-node tools/run start"
   }
