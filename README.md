@@ -89,12 +89,18 @@ visit our sponsors:
   * [appear.in/react](https://appear.in/react) — Open hours! Exchange ideas and experiences (React, GraphQL, Startups, etc.)
   * [@koistya](https://twitter.com/koistya) on [Codementor](https://www.codementor.io/koistya), or [Skype](http://hatscripts.com/addskype?koistya) — Private consulting
 
-### License
+## License
 
-Copyright © 2014-2016 Kriasoft, LLC. This source code is licensed under the MIT
-license found in the [LICENSE.txt](https://github.com/kriasoft/react-starter-kit/blob/master/LICENSE.txt)
-file. The documentation to the project is licensed under the
-[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/) license.
+Copyright 2016 GraffiTab
 
----
-Made with ♥ by Konstantin Tarkus ([@koistya](https://twitter.com/koistya)) and [contributors](https://github.com/kriasoft/react-starter-kit/graphs/contributors)
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
